@@ -82,19 +82,14 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
- 
+![WhatsApp Image 2025-11-28 at 11 13 38_ec4a4101](https://github.com/user-attachments/assets/3d97ab70-9f4a-4c10-a7be-9104173afa5e)
 
 
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-28 at 11 16 30_475e65f4](https://github.com/user-attachments/assets/9f1c6cfa-5134-4033-9c6a-259e7d92b6e7)
 
 
----
+
 ### **Non-Inverting Amplifier**
 
 If the signal is applied to the non-inverting input terminal without inversion, it is called a **non-inverting amplifier**.  
@@ -129,18 +124,13 @@ PROCEDURE:
 7. Plot the input vs. output waveform for one practical case.
 
 ## TABULATION
+![WhatsApp Image 2025-11-28 at 11 13 38_e0d9dc5d](https://github.com/user-attachments/assets/eb62d341-0681-4637-bd26-344e79651499)
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
 
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-28 at 11 16 30_cea37c15](https://github.com/user-attachments/assets/471c1425-03f0-4398-850e-436bc1752549)
 
 
----
 ## DIFFERENTIAL AMPLIFIER
 
 A circuit that amplifies the **difference** between two input signals is called a **Differential Amplifier**.  
@@ -185,18 +175,13 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ---
 
 ## TABULATION (Differential Amplifier)
+![WhatsApp Image 2025-11-28 at 11 13 38_9cdfaf01](https://github.com/user-attachments/assets/de2a1c67-ed1f-41a2-9f88-2127af222e0b)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
 
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-28 at 11 16 30_2d94bad7](https://github.com/user-attachments/assets/0aa57cdb-cf00-41c9-bb14-9c209c9d4296)
 
 
----
 ## INSTRUMENTATION AMPLIFIER
 
 THEORY:
@@ -208,8 +193,7 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
  
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
-
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+![WhatsApp Image 2025-11-28 at 11 24 23_e003261e](https://github.com/user-attachments/assets/d8201a50-0963-4418-9874-0e70c738b11b)
 
 PROCEDURE:
 
@@ -224,18 +208,13 @@ PROCEDURE:
 ---
 
 ## TABULATION (Instrumentation Amplifier)
+![WhatsApp Image 2025-11-28 at 11 27 10_f5995754](https://github.com/user-attachments/assets/8dc5219c-93f3-4e1e-aa9c-29187c303909)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
 
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-28 at 11 27 11_66c855e0](https://github.com/user-attachments/assets/bcf3a5df-4f46-4169-b89c-a2877641e718)
 
 
----
 ## RESULT
 Thus, the **Inverting**, **Non-Inverting**, **Differential**, and **Instrumentation Amplifiers** were designed and their performance successfully tested using Op-Amp IC 741.
 
