@@ -103,7 +103,7 @@ Here, the output is fed back to the inverting terminal, and **no phase shift** o
 
 ACL = 1 + RF/R1
 
-
+innn
 ---
 
 ## CIRCUIT DIAGRAM
