@@ -61,12 +61,10 @@ MODEL GRAPH
 
 DESIGN:
 
-Inverting amplifier:
+![WhatsApp Image 2025-12-05 at 20 50 13_e9110d9c](https://github.com/user-attachments/assets/bf495ece-513f-4956-aa64-1ea518d9b0dc)
+![WhatsApp Image 2025-12-05 at 20 50 31_dbc0075b](https://github.com/user-attachments/assets/a5bebd86-9aab-4a9c-a496-0a85bab9eb47)
 
-A = -Rf/R1
-Take  A = 10
-Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
+
 
 PROCEDURE:
 Inverting amplifier:
@@ -82,16 +80,13 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
- 
+![WhatsApp Image 2025-12-05 at 20 47 39_5f7d3b09](https://github.com/user-attachments/assets/6e709eef-dc38-4f50-aeab-eff0ea6396ad)
+
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 20 02 12_2c43b6b5](https://github.com/user-attachments/assets/db839c63-15d4-4956-a618-632819ca12d3)
 
 
 ---
@@ -117,6 +112,10 @@ ACL = 1 + RF/R1
 
 <img width="456" height="340" alt="image" src="https://github.com/user-attachments/assets/00c7aaec-b4d8-414e-afa3-e985eb3dd902" />
 
+# DESIGN
+![WhatsApp Image 2025-12-05 at 20 53 22_d0e4b552](https://github.com/user-attachments/assets/f28ed1de-233d-4d44-98d6-133dc2e6a099)
+![WhatsApp Image 2025-12-05 at 20 53 45_91dfe3d8](https://github.com/user-attachments/assets/767ffc3a-15d7-4280-b40c-add708eed2a3)
+
 ---
 PROCEDURE:
 ### **For  Non-Inverting Amplifier**
@@ -130,15 +129,12 @@ PROCEDURE:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-12-05 at 20 48 04_c1b90b7b](https://github.com/user-attachments/assets/bf11ee9e-c99b-4130-b29b-cd91ecc5b069)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+![WhatsApp Image 2025-12-05 at 20 02 12_b5050b54](https://github.com/user-attachments/assets/d613a9f6-0aec-4de8-8298-e32ae1ffb66f)
 
 ---
 ## DIFFERENTIAL AMPLIFIER
@@ -157,7 +153,6 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 ---
 
-## DESIGN
 
 
 ### **Differential Amplifier**
@@ -186,14 +181,11 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-12-05 at 20 49 08_9725fba5](https://github.com/user-attachments/assets/87f3474d-124a-4cb8-883b-e0c4a350bca6)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 20 02 12_6685ef84](https://github.com/user-attachments/assets/eb6f0171-e297-46a8-adf1-810324444fb0)
 
 
 ---
@@ -209,7 +201,14 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+![WhatsApp Image 2025-12-05 at 21 00 59_cab1e169](https://github.com/user-attachments/assets/0fe51231-e38c-45bd-957f-e9e51d73505a)
+
+# DESIGN
+![WhatsApp Image 2025-12-05 at 21 02 13_245942c4](https://github.com/user-attachments/assets/43546884-4107-4588-bc3b-cb835bd7233d)
+![WhatsApp Image 2025-12-05 at 21 03 45_1e5be5a5](https://github.com/user-attachments/assets/c149e003-e82b-47ac-aa73-3b5e67da4435)
+
+
+
 
 PROCEDURE:
 
@@ -225,14 +224,12 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-12-05 at 21 04 08_79054cf1](https://github.com/user-attachments/assets/5e4bfc78-7e87-4988-8bea-ac434e28cd00)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 21 09 28_c7763918](https://github.com/user-attachments/assets/d6a3df8b-25ac-4bb4-8eda-f00de5712262)
 
 
 ---
